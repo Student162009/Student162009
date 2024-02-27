@@ -5,7 +5,7 @@
    <img src="https://www.codewars.com/users/EzikDima/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
-  <a href="https://www.instagram.com/bessmertnyi.dima16/">
+  <a href="https://media.zenfs.com/en/augustman_my_848/bef60c8c6c0366a8b8eb096de9077744">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>   
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
