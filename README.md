@@ -52,3 +52,4 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzikDima&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
