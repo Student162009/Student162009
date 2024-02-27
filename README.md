@@ -32,5 +32,7 @@
  :man_technologist: About Me :
 
 I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :telescope: I'm a beginner programmer who really loves hedgehogs.
+- :zap: In my free time, I playing mobily games and ride on the bike in summmer.
 
 
