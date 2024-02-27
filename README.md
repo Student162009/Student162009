@@ -5,21 +5,21 @@
    <img src="https://www.codewars.com/users/EzikDima/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/bessmertnyi.dima16/">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>   
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
-  <a href="your-youtube-URL">
+  <a href="https://github.com/EzikDima">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://store.epicgames.com/u/a16b212311a14bfeb771cb2e7e266275">
     <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white" alt="Epic Games Badge"/>
   </a>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
-  <a href="your-youtube-URL">
+  <a href="https://www.codewars.com/users/EzikDima">
     <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.tubefilter.com/wp-content/uploads/2019/07/youtube-creators-competition.jpg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
@@ -58,10 +58,10 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :writing_hand: My projects :
 <ul>
-      <li><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird</a></li>
-      <li><a href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord</a></li>
+      <li><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)</a></li>
+      <li><a href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord(Only PC)</a></li>
       <li><a href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</a></li>
-      <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
+      <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app(Only PC)</a></li>
       <li><a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
 
