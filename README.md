@@ -2,6 +2,10 @@
 <img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp?cid=ecf05e47zbawqhe07l654s519q6n7wqxcslwru04at5nuglp&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
 </div>
 <div id="badges">
+       <a href="your-youtube-URL">
+    <img src="
+    https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
+  </a>
     <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white" alt="Epic Games Badge"/>
   </a>
