@@ -3,8 +3,7 @@
 </div>
 <div id="badges">
        <a href="your-youtube-URL">
-    <img src="
-    https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
   </a>
     <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white" alt="Epic Games Badge"/>
