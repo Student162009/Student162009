@@ -53,3 +53,15 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzikDima&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: My projects :
+<ul>
+      <li href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird</li>
+      <li href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord</li>
+      <li href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</li>
+      <li href= "https://ezikdima.github.io/Weatherapp/">Weather app</li>
+      <li href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</li>
+</ul>
+
