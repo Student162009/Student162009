@@ -2,6 +2,7 @@
 <img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp?cid=ecf05e47zbawqhe07l654s519q6n7wqxcslwru04at5nuglp&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
 </div>
 <div id="badges">
+   <img src="https://www.codewars.com/users/EzikDima/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
   <a href="your-youtube-URL">
@@ -46,4 +47,8 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
 
