@@ -2,6 +2,7 @@
 <img src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp?cid=ecf05e47zbawqhe07l654s519q6n7wqxcslwru04at5nuglp&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
 </div>
 <div id="badges">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>   
