@@ -58,10 +58,10 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :writing_hand: My projects :
 <ul>
-      <li href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird</li>
-      <li href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord</li>
-      <li href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</li>
-      <li href= "https://ezikdima.github.io/Weatherapp/">Weather app</li>
-      <li href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</li>
+      <li ><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird</a></li>
+      <li><a href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord</a></li>
+      <li><a href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</a></li>
+      <li> < a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
+      <li> < a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
 
