@@ -59,12 +59,13 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ### :writing_hand: My projects :
 <ul>
       <li><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
-      <li><a href= "https://ezikdima.github.io/converter-money/">Convert money(None RUB and BYN)</a></li>
+      <li><a href= "https://ezikdima.github.io/converter-money/">Convert money(None RUB and BYN)(Only PC)</a></li>
       <li><a href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord(Only PC)</a></li>
       <li><a href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</a></li>
       <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
       <li><a href= "https://ezikdima.github.io/Converter/">Voice Converter(Only PC)</a></li>
       <li><a href= "https://ezikdima.github.io/Mini-Calendar/">Mini Calendar</a></li>
+      <li><a href= "https://ezikdima.github.io/Stopwatch/">Stop-watch</a></li>
       <li><a href= "https://ezikdima.github.io/Clock/">Clock</a></li>
       <li><a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
