@@ -58,6 +58,7 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :writing_hand: My projects :
 <ul>
+      <li><a href= "https://ezikdima.github.io/Task-list/">Task list</a></li>
       <li><a href= "https://ezikdima.github.io/Relax-player/">Relax player</a></li>
       <li><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
       <li><a href= "https://ezikdima.github.io/converter-money/">Convert money</a></li>
