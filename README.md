@@ -57,7 +57,7 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :writing_hand: My projects :
-<ul>
+<ul class="interactive-list">
       <li><a href= "https://ezikdima.github.io/Task-list/">Task list</a></li>
       <li><a href= "https://ezikdima.github.io/Relax-player/">Relax player</a></li>
       <li><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
@@ -72,3 +72,12 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
       <li><a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
 
+```css
+.interactive-list li {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.interactive-list li:hover {
+  background-color: #ddd;
+}
