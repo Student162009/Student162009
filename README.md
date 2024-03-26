@@ -57,7 +57,14 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :writing_hand: My projects :
+<ul>
+      <li><a href= "https://ezikdima.github.io/Mini-Calendar/">Mini Calendar</a></li>
+      <li><a href= "https://ezikdima.github.io/Stopwatch/">Stop-watch</a></li>
+      <li><a href= "https://ezikdima.github.io/Clock/">Clock</a></li>
+      <li><a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
+</ul>
 <details>
+<summary>More of my projects</summary>
 <ul>
       <li><a href= "https://ezikdima.github.io/Task-list/">Task list</a></li>
       <li><a href= "https://ezikdima.github.io/Relax-player/">Relax player</a></li>
@@ -67,10 +74,6 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
       <li><a href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</a></li>
       <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
       <li><a href= "https://ezikdima.github.io/Converter/">Voice Converter(Only PC)</a></li>
-      <li><a href= "https://ezikdima.github.io/Mini-Calendar/">Mini Calendar</a></li>
-      <li><a href= "https://ezikdima.github.io/Stopwatch/">Stop-watch</a></li>
-      <li><a href= "https://ezikdima.github.io/Clock/">Clock</a></li>
-      <li><a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
 </details>
 
