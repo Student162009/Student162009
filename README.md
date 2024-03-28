@@ -74,6 +74,7 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
       <li><a href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</a></li>
       <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
       <li><a href= "https://ezikdima.github.io/Converter/">Voice Converter(Only PC)</a></li>
+      <li><a href= "https://ezikdima.github.io/Search-image-gallery/">Image Galery</a></li>
 </ul>
 </details>
 
