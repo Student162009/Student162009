@@ -1,5 +1,4 @@
-  <img height="350" width="150" src="[https://i.gifer.com/Ao.gif](https://i.gifer.com/758R.gif)"/>
-<div id="badges">
+ <div id="badges">
    <img src="https://www.codewars.com/users/EzikDima/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="codepen logo"  />
    <a href="">
