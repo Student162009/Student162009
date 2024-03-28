@@ -40,7 +40,7 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div justify-content ="space-around">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="c logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="cplusplus logo"  />
