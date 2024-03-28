@@ -40,13 +40,13 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div justify-content ="space-around">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="c logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img align="right" height="50" width="50" src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp?cid=ecf05e47zbawqhe07l654s519q6n7wqxcslwru04at5nuglp&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
+  <img align="right" height="150" width="150" src="https://media3.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.webp?cid=ecf05e47zbawqhe07l654s519q6n7wqxcslwru04at5nuglp&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
