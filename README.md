@@ -88,11 +88,4 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 </ul>
 </details>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EzikDima/EzikDima/output/snake.svg" alt="Snake animation" />
-
-###
 
