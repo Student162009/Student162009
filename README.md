@@ -1,5 +1,7 @@
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"/>
- <div id="badges">
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
+</div>
+   <div id="badges">
    <img src="https://www.codewars.com/users/EzikDima/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="codepen logo"  />
    <a href="">
