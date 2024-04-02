@@ -83,7 +83,7 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
       <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
       <li><a href= "https://ezikdima.github.io/Converter/">Voice Converter(Only PC)</a></li>
       <li><a href= "https://ezikdima.github.io/Search-image-gallery/">Image Gallery</a></li>
-      <li><a href= " https://ezikdima.github.io/Country/">Country</a></li>
+      <li><a href= "https://ezikdima.github.io/Country/">Country</a></li>
 </ul>
 </details>
 
