@@ -55,7 +55,6 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" width="50" alt="markdown logo"  />
 </div>
-
 ---
 
 ### :fire: My Stats :
