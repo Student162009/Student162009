@@ -4,7 +4,6 @@
    <div id="badges">
    <img src="https://www.codewars.com/users/Student2009/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="codepen logo"  />
-   <a href="">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
   <a href="https://media.zenfs.com/en/augustman_my_848/bef60c8c6c0366a8b8eb096de9077744">
@@ -18,14 +17,14 @@
     <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white" alt="Epic Games Badge"/>
   </a>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
-  <a href="https://www.codewars.com/users/EzikDima">
+  <a href="https://www.codewars.com/users/Student2009">
     <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="https://www.tubefilter.com/wp-content/uploads/2019/07/youtube-creators-competition.jpg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=EzikDima&style=flat-square&color=blue" alt="EzikDima counter"/>
+<img src="https://komarev.com/ghpvc/?username=Student162009&style=flat-square&color=blue" alt="EzikDima counter"/>
 <h1>
  Hello everyone! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -60,31 +59,31 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 <div justify-content: center;>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EzikDima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 ---
 
 ### :writing_hand: My projects :
 <ul>
-      <li><a href= "https://ezikdima.github.io/Mini-Calendar/">Mini Calendar</a></li>
-      <li><a href= "https://ezikdima.github.io/Stopwatch/">Stop-watch</a></li>
-      <li><a href= "https://ezikdima.github.io/Clock/">Clock</a></li>
-      <li><a href= "https://ezikdima.github.io/FUFELMEM/">Fufel prank</a></li>
+      <li><a href= "https://student162009.github.io/Mini-Calendar/">Mini Calendar</a></li>
+      <li><a href= "https://student162009.github.io/Stopwatch/">Stop-watch</a></li>
+      <li><a href= "https://student162009.github.io/Clock/">Clock</a></li>
+      <li><a href= "https://student162009.github.io/FUFELMEM/">Fufel prank</a></li>
 </ul>
 <details>
 <summary>More of my projects</summary>
 <ul>
-      <li><a href= "https://ezikdima.github.io/Task-list/">Task list</a></li>
-      <li><a href= "https://ezikdima.github.io/Relax-player/">Relax player</a></li>
-      <li><a href= "https://ezikdima.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
-      <li><a href= "https://ezikdima.github.io/converter-money/">Convert money</a></li>
-      <li><a href= "https://ezikdima.github.io/Virtualkey/">Virtual Keybord(Only PC)</a></li>
-      <li><a href= "https://ezikdima.github.io/Calculator/">Virtual Calculator</a></li>
-      <li><a href= "https://ezikdima.github.io/Weatherapp/">Weather app</a></li>
-      <li><a href= "https://ezikdima.github.io/Converter/">Voice Converter(Only PC)</a></li>
-      <li><a href= "https://ezikdima.github.io/Search-image-gallery/">Image Gallery</a></li>
-      <li><a href= "https://ezikdima.github.io/Country/">Country</a></li>
+      <li><a href= "https://student162009.github.io/Task-list/">Task list</a></li>
+      <li><a href= "https://student162009.github.io/Relax-player/">Relax player</a></li>
+      <li><a href= "https://student162009.github.io/Fluppy-Bird/">Flappy-Bird(Only PC)(P.s. To play, press the space bar) </a></li>
+      <li><a href= "https://student162009.github.io/converter-money/">Convert money</a></li>
+      <li><a href= "https://student162009.github.io/Virtualkey/">Virtual Keybord(Only PC)</a></li>
+      <li><a href= "https://student162009.github.io/Calculator/">Virtual Calculator</a></li>
+      <li><a href= "https://student162009.github.io/Weatherapp/">Weather app</a></li>
+      <li><a href= "https://student162009.github.io/Converter/">Voice Converter(Only PC)</a></li>
+      <li><a href= "https://student162009.github.io/Search-image-gallery/">Image Gallery</a></li>
+      <li><a href= "https://student162009.github.io/Country/">Country</a></li>
 </ul>
 </details>
 
