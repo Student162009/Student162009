@@ -62,7 +62,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&show_icons=true&locale=en&layout=compact" alt="Student162009" /></p>
 
-[![Student162009's GitHub stats](https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Student162009's GitHub stats](https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Student162009&" alt="Student162009" /></p>
 
