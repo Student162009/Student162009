@@ -90,5 +90,13 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div >
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlM3NhZHJmOWh3cGdlbDhlc2Q0M2ZjaGh6MDBraG1meTZqN2xhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtdRhc7TxBxB0YAsK6/200.webp" width="900" height="900" align="center"/>
