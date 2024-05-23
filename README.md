@@ -7,7 +7,7 @@
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Student162009" alt="Student162009" /></a> </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
  :man_technologist: About Me :
 
@@ -75,6 +75,7 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <ul>
       <li><a href= "https://student162009.github.io/Mini-Calendar/">Mini Calendar</a></li>
       <li><a href= "https://student162009.github.io/Stopwatch/">Stop-watch</a></li>
