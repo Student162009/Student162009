@@ -59,9 +59,9 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-<div justify-content: center;>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&show_icons=true&locale=en&layout=compact" alt="Student162009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&locale=en" alt="Student162009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Student162009&" alt="Student162009" /></p>
 
 ---
 
