@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Student162009" alt="Student162009" /></a> </p>
  :man_technologist: About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+plus+hedgehog+=+HedgehogStudent)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+plus+hedgehog+=+Dima)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 - I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :hedgehog: I'm a beginner programmer who really loves hedgehogs.
