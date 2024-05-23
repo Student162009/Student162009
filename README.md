@@ -1,4 +1,4 @@
-<div >
+<div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
    <div id="badges">
@@ -90,4 +90,4 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 <div >
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlM3NhZHJmOWh3cGdlbDhlc2Q0M2ZjaGh6MDBraG1meTZqN2xhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtdRhc7TxBxB0YAsK6/200.webp" width="900" height="900" />
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlM3NhZHJmOWh3cGdlbDhlc2Q0M2ZjaGh6MDBraG1meTZqN2xhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtdRhc7TxBxB0YAsK6/200.webp" width="900" height="900" align="center"/>
