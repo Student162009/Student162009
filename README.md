@@ -1,34 +1,10 @@
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
-</div>
-   <div id="badges">
-   <img src="https://www.codewars.com/users/Student2009/badges/large" alt="EzikDima Codewars Badge"/>
-   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="codepen logo"  />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
-  <a href="https://media.zenfs.com/en/augustman_my_848/bef60c8c6c0366a8b8eb096de9077744">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>   
-    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
-  <a href="https://github.com/EzikDima">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="https://store.epicgames.com/u/a16b212311a14bfeb771cb2e7e266275">
-    <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white" alt="Epic Games Badge"/>
-  </a>
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
-  <a href="https://www.codewars.com/users/Student2009">
-    <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
-  </a>
-  <a href="https://www.tubefilter.com/wp-content/uploads/2019/07/youtube-creators-competition.jpg">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Student162009&style=flat-square&color=blue" alt="EzikDima counter"/>
 <h1>
  Hello everyone! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -60,6 +36,31 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
+   <div id="badges">
+   <img src="https://www.codewars.com/users/Student2009/badges/large" alt="EzikDima Codewars Badge"/>
+   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="codepen logo"  />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity Badge"/>
+  <a href="https://media.zenfs.com/en/augustman_my_848/bef60c8c6c0366a8b8eb096de9077744">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>   
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge"/>
+  <a href="https://github.com/EzikDima">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://store.epicgames.com/u/a16b212311a14bfeb771cb2e7e266275">
+    <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=Epic-Games&logoColor=white" alt="Epic Games Badge"/>
+  </a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge"/>
+  <a href="https://www.codewars.com/users/Student2009">
+    <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+  </a>
+  <a href="https://www.tubefilter.com/wp-content/uploads/2019/07/youtube-creators-competition.jpg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Student162009&style=flat-square&color=blue" alt="EzikDima counter"/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&show_icons=true&locale=en&layout=compact" alt="Student162009" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&locale=en" alt="Student162009" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Student162009&" alt="Student162009" /></p>
