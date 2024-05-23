@@ -35,6 +35,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Student162009" alt="Student162009" /></a> </p>
  :man_technologist: About Me :
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+hedgehog+=+HedgehogStudent)](https://git.io/typing-svg)
 I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :hedgehog: I'm a beginner programmer who really loves hedgehogs.
 - :bicyclist: In my free time, I playing mobily games and ride on the bike in summer.
@@ -90,7 +91,6 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+hedgehog+=+HedgehogStudent)](https://git.io/typing-svg)
 
 <div >
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlM3NhZHJmOWh3cGdlbDhlc2Q0M2ZjaGh6MDBraG1meTZqN2xhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtdRhc7TxBxB0YAsK6/200.webp" width="900" height="900" align="center"/>
