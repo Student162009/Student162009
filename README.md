@@ -61,10 +61,10 @@
 <img src="https://komarev.com/ghpvc/?username=Student162009&style=flat-square&color=blue" alt="EzikDima counter"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Student162009&show_icons=true&locale=en&layout=compact" alt="Student162009" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&locale=en" alt="Student162009" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Student162009&" alt="Student162009" /></p>
 
 [![Student162009's GitHub stats](https://github-readme-stats.vercel.app/api?username=Student162009&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Student162009&" alt="Student162009" /></p>
 
 ---
 
