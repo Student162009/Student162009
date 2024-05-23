@@ -33,7 +33,7 @@
 ---
 
 ### :fire: My Stats :
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlM3NhZHJmOWh3cGdlbDhlc2Q0M2ZjaGh6MDBraG1meTZqN2xhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtdRhc7TxBxB0YAsK6/200.webp" width="900" height="900" align="center"/>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlM3NhZHJmOWh3cGdlbDhlc2Q0M2ZjaGh6MDBraG1meTZqN2xhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RtdRhc7TxBxB0YAsK6/200.webp" width="600" height="600" align="center"/>
    <div id="badges">
    <img src="https://www.codewars.com/users/Student2009/badges/large" alt="EzikDima Codewars Badge"/>
    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="codepen logo"  />
