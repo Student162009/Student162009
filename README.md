@@ -3,16 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
-</div>
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Student162009" alt="Student162009" /></a> </p>
  :man_technologist: About Me :
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+plus+hedgehog+=+HedgehogStudent)](https://git.io/typing-svg)
-I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :hedgehog: I'm a beginner programmer who really loves hedgehogs.
 - :bicyclist: In my free time, I playing mobily games and ride on the bike in summer.
 
@@ -68,6 +65,9 @@ I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :writing_hand: My projects :
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdnZnlpZ2E5N21rbzl1YWc0czlveW9pdnhqdjdxbjdseHR0ZW0zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
+</div>
 <ul>
       <li><a href= "https://student162009.github.io/Mini-Calendar/">Mini Calendar</a></li>
       <li><a href= "https://student162009.github.io/Stopwatch/">Stop-watch</a></li>
