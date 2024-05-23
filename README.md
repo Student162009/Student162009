@@ -9,7 +9,7 @@
  :man_technologist: About Me :
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+plus+hedgehog+=+HedgehogStudent)](https://git.io/typing-svg)
-- :I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- I am a Student Acadamy  IT Step <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :hedgehog: I'm a beginner programmer who really loves hedgehogs.
 - :bicyclist: In my free time, I playing mobily games and ride on the bike in summer.
 
